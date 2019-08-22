@@ -1,7 +1,8 @@
 #include<stdio.h>
 int main()
 {
-	int a=10;
+	int a=0;
+	scanf_s("%d",&a);
 	printf("hello world");
 	
 }
