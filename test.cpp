@@ -1,8 +1,6 @@
 #include<stdio.h>
 int main()
-{
-	int a=0;
-	scanf_s("%d",&a);
-	printf("hello world");
+{	int a=10,b=20;
+	printf("%d"a+b);
 	
 }
